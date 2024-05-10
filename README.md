@@ -11,8 +11,8 @@ ARSafariX is an AR-based application that has been taught at Bina Nusantara Univ
 - Daniel Guntoro - 2602073334
 
 # Link
-Klik link [ini](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/_layouts/15/guestaccess.aspx?share=EnVReGfAsedJuWsInT_D0dQBbUwRYpcMh7ZnsVq8ZiTWFQ&e=ZSliwh) berikut untuk menginstall aplikasi dan sudah ada marker yang tersedia d link tersebut!
+Klik link [ini](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/_layouts/15/guestaccess.aspx?share=EnVReGfAsedJuWsInT_D0dQBbUwRYpcMh7ZnsVq8ZiTWFQ&e=ZSliwh) berikut untuk menginstall aplikasi sekaligus kebutuhan lainnya di link tersebut!
 
-*Click the following [this](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/_layouts/15/guestaccess.aspx?share=EnVReGfAsedJuWsInT_D0dQBbUwRYpcMh7ZnsVq8ZiTWFQ&e=ZSliwh) link to install the application and there are already markers available on the link!*
+*Click this [this](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/_layouts/15/guestaccess.aspx?share=EnVReGfAsedJuWsInT_D0dQBbUwRYpcMh7ZnsVq8ZiTWFQ&e=ZSliwh) link to install the app as well as other necessities at that link!*
 
 ### Enjoy!
