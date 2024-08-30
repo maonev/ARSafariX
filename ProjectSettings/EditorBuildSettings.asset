@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/intro.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/scenes/about_us.unity
+    guid: 8372f27ec508ce643ade2636df435869
+  - enabled: 1
+    path: Assets/scenes/anjing.unity
+    guid: 5dd3a4a07093f764e966f9fa0b4d1fac
+  - enabled: 1
+    path: Assets/scenes/elang.unity
+    guid: 3777bc4229b556349b10cbccc504fc5d
+  - enabled: 1
+    path: Assets/scenes/hiu.unity
+    guid: eec4f14d06ef94f4389c72f62cd6475f
+  - enabled: 1
+    path: Assets/scenes/ar.unity
+    guid: b47f9c4752a2d164e95c7b3482056f05
+  - enabled: 1
+    path: Assets/scenes/hiu_explore.unity
+    guid: e19d019ebbc11d541a141cb07eee0d84
+  - enabled: 1
+    path: Assets/scenes/anjing_explore.unity
+    guid: e54ed6c01d4b1304f9ec24ed4a0f3b24
+  - enabled: 1
+    path: Assets/scenes/elang_explore.unity
+    guid: 414578d5ebc09e1478a3068f8a6620a4
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
