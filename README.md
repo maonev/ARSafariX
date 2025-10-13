@@ -15,4 +15,9 @@ Klik link [ini](https://binusianorg-my.sharepoint.com/personal/michael_wongsosat
 
 *Click this [this](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/Documents/BINUS/ProjectMultimedia/ARSafariX?csf=1&web=1&e=qfIJT4) link to install the app as well as other necessities at that link!*
 
+# Link
+Klik link [ini](https://youtu.be/bWBF35xwFRA?si=OOp60WtQH3NiCb8o) berikut untuk melihat demo dari aplikasi AR tersebut!
+
+*Click this [this](https://youtu.be/bWBF35xwFRA?si=OOp60WtQH3NiCb8o) link to see demo AR app!*
+
 ### Enjoy!
