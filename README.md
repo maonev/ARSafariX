@@ -43,13 +43,13 @@ I contributed as the **project lead** and handled nearly all technical and creat
 
 ## 🎥 Demo Video  
 👉 *Watch the project demo:*  
-**[Demo Video Link](https://youtu.be/bWBF35xwFRA?si=OOp60WtQH3NiCb8o)**  *(replace link)*
+**[Demo Video Link](https://youtu.be/bWBF35xwFRA?si=OOp60WtQH3NiCb8o)**
 
 ---
 
 ## 📱 Download the App  
 👉 *Try the ARSafariX application here:*  
-**[Download APK](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/Documents/BINUS/ProjectMultimedia/ARSafariX?csf=1&web=1&e=qfIJT4)**  *(replace link)*
+**[Download APK](https://binusianorg-my.sharepoint.com/personal/michael_wongsosatiawan_binus_ac_id/Documents/BINUS/ProjectMultimedia/ARSafariX?csf=1&web=1&e=qfIJT4)**
 
 ---
 
