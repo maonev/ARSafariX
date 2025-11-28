@@ -13,9 +13,9 @@ Children/others can scan animal cards (digital cards, not physical) using their 
 ---
 
 ## 👥 Group Members  
-- Michael Valentino W - 2602060804
-- Bernardus Brahmantyo Budisusetyo - 2602203453
-- Daniel Guntoro - 260207333
+- Michael Valentino W
+- Bernardus Brahmantyo Budisusetyo
+- Daniel Guntoro
 
 ---
 
